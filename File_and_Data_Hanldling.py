@@ -1,6 +1,9 @@
 '''
 Python too supports file handling and allows users to handle files i.e.,
 to read and write files, along with many other file handling options, to operate on files.
+Data handling is the process of ensuring that research data is stored, 
+archived or disposed off in a safe and secure manner during and after the conclusion of a research project.
+Proper planning for data handling can also result in efficient and economical storage, retrieval, and disposal of data.
 '''
 
 
