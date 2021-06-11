@@ -1,7 +1,7 @@
 '''
-Data handling is the process of ensuring that research data is stored, 
-archived or disposed off in a safe and secure manner during and after the conclusion of a research project.
-Proper planning for data handling can also result in efficient and economical storage, retrieval, and disposal of data.
+A Database connection is a facility in computer science that allows client software to talk to database server software,
+whether on the same machine or not. A connection is required to send commands and receive answers, 
+usually in the form of a result set. Connections are a key concept in data-centric programming.
 '''
  
 # Creating a Database
